@@ -48,6 +48,13 @@ const users = [
         interaction:  'Chess Club',
         time: '2weeks ago'
     },
+    {   
+        avatar: 'assets/images/avatar-anna-kim.webp',
+        name: 'Anna Kim',
+        activity: 'left the group',
+        interaction:  'Chess Club',
+        time: '2weeks ago'
+    },
 ]
 
 users.forEach(function(item, index){
